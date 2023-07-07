@@ -1,0 +1,1 @@
+export const IMPORT_PRODUCT_ENPOINT = "https://haipb.worker.dev"
